@@ -19,14 +19,11 @@ As internet access and data volumes continue to rapidly expand globally, so do t
 
 ## Important Concept: CIA Triad
 
-Confidentiality 
-Sensitive data should only be accessible to authorized users.
+Confidentiality - Sensitive data should only be accessible to authorized users.
 
-Integrity
-Data should remain accurate and should not be modified by unauthorized users.
+Integrity - Data should remain accurate and should not be modified by unauthorized users.
 
-Availability
-Systems and data should be accessible when needed.
+Availability - Systems and data should be accessible when needed.
 
 ### Key Takeaways
 - Cybersecurity protects systems, networks, and data.
